@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ኮሮና</string>
+    <string name="about_corona">ስለ ኮሮና</string>
+    <string name="test">ፈተና</string>
+    <string name="what_to_know_about_corona">ስለ ኮሮና ምን ማወቅ እንዳለብዎ</string>
+    <string name="par1">የኮሮናቫይረስ በሽታ (COVID-19) አዲስ በተመረጠው ኮሮናቫይረስ ምክንያት የሚመጣ ተላላፊ በሽታ ነው።
+        በ COVID-19 ቫይረስ የተያዙ ብዙ ሰዎች መካከለኛ እስከ መካከለኛ የመተንፈሻ በሽታ ያጋጥማቸውና ልዩ ህክምና ሳያስፈልጋቸው ይድገማሉ።
+        አዛውንቶች እና እንደ የልብና የደም ቧንቧ በሽታ ፣ የስኳር በሽታ ፣ የመተንፈሻ አካላት በሽታ እና ካንሰር ያሉ ከባድ ችግሮች ያሉባቸው ሰዎች ከባድ በሽታ የመያዝ ዕድላቸው ከፍተኛ ነው ፡፡   </string>
+    <string name="how_to_prevent_the_virus">
+ቫይረሱን እንዴት መከላከል እንደሚቻል</string>
+
+    <string name="par2">ኢንፌክሽንን ለመከላከል እና የ COVID-19 ስርጭትን ለማዘግየት የሚከተሉትን ያድርጉ: \n \n
+        <li> በመደበኛነት እጅዎን በሳሙና እና በውሃ ይታጠቡ ወይም በአልኮል ላይ በተመሠረተ የእጅ መታሸት ያፅዱ። </li> \n \n
+        <li> በሚያስነጥሱ ወይም በሚያስነጥሱ ሰዎች መካከል ቢያንስ 1 ሜትር ርቀት ይኑርዎት። </li> \n \n
+        <li> ፊትዎን ከመንካት ይቆጠቡ። </li> \ n \ n
+        <li> በሚስሉበት ወይም በሚያስነጥሱበት ጊዜ አፍዎን እና አፍንጫዎን ይሸፍኑ። </li> \n \n
+        <li> ህመም ካልተሰማዎት ቤትዎ ይቆዩ። </li> \ n \ n
+        <li> ከማጨስ እና ሳንባዎችን ከሚያዳክሙ ሌሎች እንቅስቃሴዎች ይራቁ። </li> \n
+    </string>
+    <string name="par3">COVID-19 የተለያዩ ሰዎችን በተለያዩ መንገዶች ይነካል። \n
+        አብዛኛዎቹ በበሽታው የተጠቁ ሰዎች መካከለኛ እስከ መካከለኛ ህመም ያድጋሉ እና ያለ ሆስፒታል ያድጋሉ። \n
+        በጣም የተለመዱ ምልክቶች: \n \n
+        <li> ትኩሳት </li> \n
+        <li> ደረቅ ሳል </li> \n
+        <li> ድካም </li> \n \n
+        ያልተለመዱ ምልክቶች: \n \n
+        <li> ህመም እና ህመም። </li> \n
+        <li> የጉሮሮ መቁሰል። </li> \n
+        <li> ተቅማጥ </li> \n
+        <li> conjunctivitis </li> \n
+        <li> ራስ ምታት። </li> \n
+        <li> ጣዕምና ማሽተት ማጣት </li> \n
+        <li> በቆዳ ላይ ሽፍታ ፣ ወይም የጣቶች ወይም የእግር ጣቶች መፈጠር። </li> \n \n
+        ከባድ ምልክቶች: \n \n
+        <li> የመተንፈስ ችግር ወይም የትንፋሽ እጥረት። </li> \n
+        <li> የደረት ህመም ወይም ግፊት። </li> \n
+        <li> የንግግር ወይም የመንቀሳቀስ ማጣት። </li> \n
+
+    </string>
+    <string name="corona_risk_of_infection">ኮሮና በሽታ የመያዝ አደጋ</string>
+    <string name="True">አዎ</string>
+    <string name="False">አይ</string>
+
+    <string name="syptoms_of_the_virus">
+የቫይረሱ ምልክቶች</string>
+
+    <string name="see_statstics"> ስታቲስቲክስን ይመልከቱ</string>
+    <string name="language">ቋንቋ</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>አማርኛ</item>
+    </string-array>
+
+    <string-array name="test_Q">
+        <item>ላለፉት 14 ቀናት ወደ ውጭ አገር ተጓዙ?</item>
+        <item>ከተረጋገጠ የቪቪ -19 ጉዳይ ጋር በቅርብ ተገናኝተሃል?</item>
+        <item>ትኩሳት ያለብዎት ስሜት አለዎት?</item>
+        <item>የመተንፈስ ችግር አለብዎ?</item>
+
+    </string-array>
+</resources>

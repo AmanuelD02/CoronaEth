@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Corona</string>
+    <string name="about_corona">About Corona</string>
+    <string name="test">TEST</string>
+    <string name="what_to_know_about_corona">What to know About Corona</string>
+    <string name="par1">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+        Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.
+        Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+    </string>
+    <string name="how_to_prevent_the_virus">How To prevent The Virus</string>
+
+    <string name="par2">
+        To prevent infection and to slow transmission of COVID-19, do the following: \n\n
+        <li>Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.</li> \n\n
+        <li> Maintain at least 1 metre distance between you and people coughing or sneezing.</li> \n\n
+        <li>Avoid touching your face.</li> \n\n
+        <li>Cover your mouth and nose when coughing or sneezing.</li> \n\n
+        <li>Stay home if you feel unwell.</li> \n\n
+        <li> Refrain from smoking and other activities that weaken the lungs.</li> \n
+
+    </string>
+    <string name="par3">
+        COVID-19 affects different people in different ways.\n
+        Most infected people will develop mild to moderate illness and recover without hospitalization. \n
+        Most common symptoms: \n\n
+        <li>fever</li> \n
+        <li>dry cough</li> \n
+        <li>tiredness</li> \n\n
+        Less common symptoms: \n\n
+        <li>aches and pains.</li> \n
+        <li>sore throat.</li> \n
+        <li>diarrhoea.</li> \n
+        <li>conjunctivitis</li> \n
+        <li>headache.</li>\n
+        <li>loss of taste or smell.</li>\n
+        <li>a rash on skin, or discolouration of fingers or toes.</li>\n\n
+        Serious symptoms: \n\n
+        <li>difficulty breathing or shortness of breath.</li> \n
+        <li>chest pain or pressure.</li> \n
+        <li>loss of speech or movement.</li> \n
+
+    </string>
+    <string name="corona_risk_of_infection">Corona Risk Of Infection</string>
+    <string name="True">TRUE</string>
+    <string name="False">FALSE</string>
+
+    <string name="see_statstics">SEE STATSTICS</string>
+    <string name="language">Language:</string>
+    <string name="syptoms_of_the_virus">Syptoms of the Virus</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Amharic</item>
+    </string-array>
+
+
+    <string-array name="test_Q">
+        <item>Have you been travelling abroad during the past 14 days?</item>
+        <item>Have you been in close contact* with a confirmed case of Covid-19?</item>
+        <item>"Do you have a feverish feeling?</item>
+        <item>Do you have trouble breathing?</item>
+
+    </string-array>
+
+</resources>
